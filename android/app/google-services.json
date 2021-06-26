@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "488095442726",
+    "project_id": "flutfire-6c7b2",
+    "storage_bucket": "flutfire-6c7b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488095442726:android:a1f4b201547f5c917b03e7",
+        "android_client_info": {
+          "package_name": "com.example.flutfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488095442726-oi2o7i5l5c1cje90th8oq4r6aoqfl0hf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutfire",
+            "certificate_hash": "08312be579dca05521577df960de47524c539b41"
+          }
+        },
+        {
+          "client_id": "488095442726-p6hnami001pu0753isqh7j561sotjoni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQesDKmuRAon6iZYYpbfFdgT_KGCzH4fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488095442726-p6hnami001pu0753isqh7j561sotjoni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
